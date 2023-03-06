@@ -1,0 +1,1544 @@
+sudo nvim /etc/passwd
+rm Video-20230110.zip
+xdg-open index.html
+rm RICHARD-NICOLAS-RENDU-JUL.pdf
+mv RICHARD-NICOLAS-RENDU-JUL.pdf pdf.pdf
+xdg-open pdf.pdf
+mv pdf.pdf ~/Documents/pdfsign
+npm install -g http-server\
+
+sudo npm install -g http-server\
+
+cd Documents/scanpay
+cd Documents/pdfsign
+tldr unzip
+unzip tabler.zip 
+cd Tabler
+mv Tabler ~/Documents
+cd ~/Documents
+cd Tabler/
+http-server
+rm -rf Tabler
+tree demo
+sudo pacman -S ruby=2.7.6-1\
+
+sudo pacman -S ruby=2.7.6\
+
+cd qrcode-api
+nvim .env
+php artisan serve --port:8001
+kill %2
+yay -S mssql-tools
+tldr sqlcmd
+man sqlcmd
+sqlcmd -S 192.168.123.16,1433 -U andrianina -P Debianlnx1$ -Y 1
+sqlcmd -S 192.168.123.16,1433 -U andrianina -P Debianlnx1$
+sqlcmd -h
+sqlcmd -?
+sqlcmd --help
+-?
+sqlcmd -S 172.220.24.37,1433 -d CBS -U andrianina -P Debianlnx1$ -C
+sqlcmd -S 172.220.24.37,1433 -U andrianina -P Debianlnx1$ -C
+sqlcmd -S 172.20.24.37,1433 -U andrianina -P Debianlnx1$ -C
+sudo pacman -S unixodbc\
+
+sudo pacman -S php-headers\
+
+sudo pacman -S php-dev\
+
+sudo pacman -S ph8-dev\
+
+sudo pacman -Ss php-dev
+pacman -Ss php-dev
+pacman -Ss php-headers
+pacman -Ss php8-dev
+pacman -S php8-dev
+sudo pacman -S php8-dev
+yay -Ss php-dev
+yay -Ss php-headers
+sudo pecl install sqlsrv\
+
+sudo pacman -S php-sqlsrv\
+
+pacman -Ss php-
+pacman -Ss php- | grep sqlsrv
+nvim /etc/php/php.ini
+ping 172.20.24.37
+php -m
+git diff
+yay -Ss postman
+yay -S postman-bin
+php artisan migrate:rollback
+php artisan migrate
+php artisan db:seed
+adb logcat -s io.ionic.starter.scan-carte-auth
+adb shell pm list packages | grep "scan-carte"
+adb shell pm list packages | grep "scan-carte-auth"
+adb shell pm list packages | grep "ionic"
+adb logcat
+unzip app-debug.apk AndroidManifest.xml
+nvim AndroidManifest.xml
+cat AndroidManifest.xml
+0
+4
+php artisan serve*
+adb shell pm list packages | grep io.ionic\
+
+adb push app-debug.apk "Internal storage/Android/data" 
+adb shell pm list packages | grep scan\
+
+ionic cordova plugin add cordova-plugin-whitelist\
+
+yarn cordova-plugin-whitelist
+yarn add cordova-plugin-whitelist
+yarn build
+npx jetify
+rm AndroidManifest.xml
+adb device
+adb install app-debug.apk
+rm temp*
+adb push app-debug.apk /sdcard/Download/
+adb shell pm list packages | grep io\
+
+jpbs
+php artisan serve --port=8001
+kill %1
+kill %2 && kill %3
+fg
+nvim ~/.config/nvim/lua/custom/
+nvim ~/.config/nvim/lua/custom
+find | grep Otp
+yay -Ss vscodiuÃ¹
+yay -Ss vscodium
+yay -S vscodium-bin
+cd ~/Documents/scanpay
+ionic serve
+2
+adb logcat -s io.ionic.starter
+mkdir realworld
+cd realworld/
+git clone https://github.com/f1amy/laravel-realworld-example-app.git f1amy
+git clone https://github.com/alexeymezenin/laravel-realworld-example-app.git alexeymezenin
+cd alexeymezenin
+composer install
+cat .env.example
+cp .env.example .env
+php artisan serve
+sudo pacman -S base-devel tar gzip diffutils curl
+curl -L get.rvm.io > rvm-install
+bash < ./rvm-install
+source /home/andrianina/.rvm/scripts/rvm
+type rvm | head -n1
+rvm notes
+rvm requirements
+rvm install 2.7
+less /home/andrianina/.rvm/log/1673442153_ruby-2.7.7/install.log
+sudo pacman -S openssl
+rvm list known
+rvm use 2.7 --default
+pacman -Ss ruby
+rm -rf .rvm
+rm rvm-install
+rm .profile
+nvim .bashrc
+sudo pacman -S ruby
+which ruby
+sudo pacman -Rns ruby
+cd D/
+cp PAMF\ _ATM\ Switch\ Proposal_December\ 2022.pdf ~/Documents
+xdg-open PAMF\ _ATM\ Switch\ Proposal_December\ 2022.pdf
+xdg-open PAMF\ _ATM\ Switch\ Proposal_December\ 2022.pdf &
+
+git clone https://github.com/tabler/tabler.git
+cd tabler
+npm install
+yay -S rbenv
+rbenv --help
+rbenv commands
+rbenv -v
+rbenv install -L
+man rbenv
+rbenv -h
+yay -S ruby-build
+rbenv install 2.7.6
+sudo pacman -S rubygems
+rbenv versions
+sudo pacman -Rns rubygems
+cat .profile
+rbenv version
+rbenv global 2.7.6
+nvim .profile
+rbenv init
+ruby -v
+cd Documents/tabler*
+gem install bundler
+bundle install
+adb
+cd Documents/scancardfront
+cd android/app/build/outputs/apk/debug
+cd ~/Documents/scancardfront
+ionic capacitor build android
+php artisan migrate:refresh --seed
+cd Documents/tabler
+npm run start
+yay -S yt-dlp
+cd DOw
+yt-dlp -f 'best[height<=480]' --extract-audio --audio-format mp3 -o "%(title)s.%(ext)s" "https://youtube.com/playlist?list=PL4cUxeGkcC9hpM9ARM59Ve3jqcb54dqiP"\
+
+rm "SvelteKit Crash Course *"
+rm SvelteKit\ Crash\ Course\ Tutorial *
+mkdir sveltkit
+yt-dlp -f 'best[height<=480]' --extract-audio --audio-format mp3 -o "%(playlist_index)s-%(title)s.%(ext)s" "https://youtube.com/playlist?list=PL4cUxeGkcC9hpM9ARM59Ve3jqcb54dqiP"\
+
+du sveltkit
+du -h sveltkit
+ls sveltkit
+cp -r sveltkit /mnt
+sudo cp -r sveltkit /mnt
+systemctl poweroff
+find | grep key.txt
+cd storage
+cat key.txt
+cd ~/Downloads/
+cd .config/nvim/lua/custom
+sqlcmd -S 192.168.123.16,1433 -d QRCode -U andrianina -P Debianlnx1$ -C
+sqlcmd -S 172.20.24.37,1433 -d CBS -U andrianina -P Debianlnx1$ -C
+yay -S protonvpn-cli
+sudo pacman -S network-manager-applet
+sudo pacman -S gnome-keyring
+nm-applet && gnome-keyring && protonvpn-cli connect
+protonvpn-cli login rabakoson@proton.me
+nm-applet &; gnome-keyring &; protonvpn-cli connect
+gnome-keyring &
+gnome-keyring-daemon --start &; gnome-keyring &; protonvpn-cli connect
+ping 172.20.24.24
+cd Documents/qrcode-api
+sudo pacman -S php php-dev unixodbc unixodbc-dev
+yay -S php-dev
+cd ~/Documents/qrcode-api
+php artisan serve --host=192.168.220.63
+cd ~/Documents/qrcode-back
+php artisan serve --host=192.168.220.63 --port=8001
+bg
+jobs
+kill %1 && kill %2
+git clone https://github.com/ThomasSunderland/demo_applauncher.git
+cd demo_applauncher
+adb shell pm list packages | grep ionic\
+
+adb shell pm list packages\
+
+adb shell pm list packages | grep openvpn
+adb shell pm list packages | grep sophos
+adb shell pm list packages | grep outlook
+adb shell pm list packages
+adb shell pm list packages | grep camera
+adb shell pm list packages | grep net
+adb shell pm list packages | grep aspekt
+rxit
+logout
+yay -S python-spotdl
+gnome-keyring-daemon --start && nm-applet && protonvpn-cli connect
+gnome-keyring-daemon --start &
+nm-applet &
+protonvpn-cli connect
+spotdl "https://open.spotify.com/playlist/3Yq4xrK1JFHQeqmwJjXbQ0?si=e8b5241ce59a4234"
+protonvpn-cli disconnect
+pulseaudio -v
+amixer
+alsamixer -c 0
+amixer sset Master mute
+amixer sset Master unmute
+amixer sset Speaker unmute
+pulseaudio -k
+sudo cp /mnt/D/PAMF\&MVOLA-\ BTW.pptx ~/Documents
+sudo cp Android\ Development\ for\ Beginners\ -\ Full\ Course.mp4 /mnt
+yt-dlp "https://www.youtube.com/watch?v=fis26HvvDII"
+sudo pacman -S zip
+yay -Ss xz-utils
+sudo pacman -S glu
+history | grep yt-dlp
+yt-dlp --playlist "https://youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ" --format best[height<=720] --number-pad 2 --output "%(playlist_index)s - %(title)s.%(ext)s"\
+
+yt-dlp --playlist "https://youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ" --format "bestvideo[height<=720]+bestaudio/best[height<=720]" --number-pad 2 --output "%(playlist_index)s - %(title)s.%(ext)s"
+yt-dlp "https://youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ" --format "bestvideo[height<=720]+bestaudio/best[height<=720]" --number-pad 2 --output "%(playlist_index)s - %(title)s.%(ext)s"
+yt-dlp --format "bestvideo[height<=720]+bestaudio/best[height<=720]" --output "%(playlist_index)s - %(title)s.%(ext)s" "https://youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ"
+mv 0clear
+sudo pacman -S clang
+sudo pacman -S cmake
+sudo pacman -S ninja
+which sdkmanager
+echo $ANDROID_HOME
+flutter config --android-studio-dir /usr/bin/android-studio
+sdkmanager --install "cmdline-tools;latest"
+cd /opt/flutter
+cd bin
+which flutter
+sudo chown -R $(whoami) /opt/flutter/version
+sudo chown -R $(whoami) /root/.pub-cache/hosted/pub.dartlang.org/_fe_analyzer_shared-41.0.0
+sudo flutter doctor
+yay -Rns flutter
+rm -rf /opt/flutter
+sudo rm -rf /opt/flutter
+yay -S flutter
+cat .config/zsh/.zshrc
+export $JAVA_HOME
+echo $JAVA_HOME
+  sudo groupadd flutterusers
+clearsudo groupadd flutterusers
+sudo gpasswd -a $USER flutterusers
+sudo chown -R :flutterusers /opt/flutter
+sudo chmod -R g+w /opt/flutter/
+yay -S android-sdk android-sdk-platform-tools android-sdk-build-tools
+sudo groupadd android-sdk
+sudo gpasswd -a $USER android-sdk
+sudo setfacl -R -m g:android-sdk:rwx /opt/android-sdk
+sudo setfacl -R -m g:android-sdk:rwx ~/Android/Sdk/
+sudo setfacl -d -m g:android-sdk:rwx ~/Android/Sdk/
+flutter create new_app
+cd new_app
+flutter run --debug
+archlinux-java help
+archlinux-java fic
+archlinux-java fix
+sudo archlinux-java fix
+which java
+java -version
+which android-studio
+flutter config --android-studio-dir=/usr/bin/android-studio
+flutter doctor -v*
+flutter config --android-studio-dir=
+flutter doctor -v
+sudo chown -R $(whoami) $ANDROID_SDK_ROOT\
+
+readlink -f $(which java)
+source .config/zsh/.zshrc
+flutter doctor --android-licenses
+su - andrianina
+cd AndroidStudioProjects
+rm -rf my_app
+rm -rf test-drive
+rm -rf my-app
+rm -rf new_app
+rm -rf demo_applauncher
+rm -rf test-ionic
+yay -S teamviewer
+speaker-test
+aplay -l
+lsmod | grep snd
+lsmod | grep audio
+cat .config/polybar/scripts/polywins.sh
+nvim .config/polybar/scripts/polywins.sh
+nvim .config/bspwm/bspwmrc
+cd .config/
+cd .config/polybar
+mkdir scripts
+nvim polywins.sh
+chmod +x polywins.sh
+ls -1 /sys/class/backlight/
+ip link
+nvim pop.sh
+chmod +x pop.sh
+sudo pacman -S teamviewer
+yay -S anydesk-bin
+dmesg | grep -i audio
+pacman -Q intel-sof-firmware
+pacman -S intel-sof-firmware
+sudo pacman -S intel-sof-firmware
+sudo pacman -S sof-firmware
+amixer sset Master unmute\
+
+amixer\
+
+sudo dmesg | grep -i audio
+alsamixer
+amixer set Master 5%-
+amixer set Master toggle
+sudo pacman -S pactl
+amixer --help
+amixer set Master unmute
+cd dotfiles
+cat sxhkd/sxhkdrc
+cd Downloads/
+xdg-open 01-SvelteKit\ Crash\ Course\ Tutorial\ \#1\ -\ What\ is\ SvelteKitï¼ƒ¿.mp3
+xdg-open "01-SvelteKit Crash Course Tutorial #1 - What is SvelteKitï¼ƒ¿.mp3"
+ls | grep 01
+ls | grep "/d"
+ls | grep "[1-9]"
+ls | grep "[1-9] -"
+ls | grep "[1-9] -" | wc -l
+ls | grep "[0-9] -" | wc -l
+mv "[0-9] -" flutter
+mv "[0-9] - *" flutter/
+find "[0-9] - *"
+find -name "[0-9] - *"
+find -name "[0-9] - *" .
+sudo pacman -S thunar
+cd sveltkit
+rm *.mp3
+yt-dlp --format "bestvideo[height<=720]+bestaudio/best[height<=720]" --output "%(playlist_index)s - %(title)s.%(ext)s" "https://youtube.com/playlist?list=PL4cUxeGkcC9hpM9ARM59Ve3jqcb54dqiP"
+mkdir svelte
+rm *.webm
+rm 06\ -\ Svelte\ Tutorial\ for\ Beginners\ \#6\ -\ Loops.f302.webm.ytdl 06\ -\ Svelte\ Tutorial\ for\ Beginners\ \#6\ -\ Loops.f302.webm.part
+cd Music
+sudo cp *.mp3 /mnt
+cd svelte
+yt-dlp --format "bestvideo[height<=720]+bestaudio/best[height<=720]" --output "%(playlist_index)s - %(title)s.%(ext)s" "https://youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO"
+ls /usr/local
+ls /usr/local/lib
+ld
+nvim spotify.desktop
+find 
+find | grep spotify
+find | grep .desktop
+ls .config/spotify
+ls -a .config/spotify
+sudo pacman -Sy
+sudo pacman -S fzf
+fzf --reverse --multi --height 50%
+fzf -f
+fzf
+yay -Rns teamviewer
+sudo pacman -S ncdu
+nvim .config/polybar/config
+cat /usr/share/applications/spotify-adblock.desktop
+cclear
+cd /home/andrianina/AndroidStudioProjects/AchatVente
+rm -rf AchatVente
+mkdir Music
+sudo mkdir Music
+mv *.mp3 Music
+sudo mv *.mp3 Music
+ls Music
+mv Tovo\ j\'Hay Music
+sudo mv Tovo\ j\'Hay Music
+mv Mahaleo Music
+sudo mv Mahaleo Music
+sudo mv DIAVOLANA Music
+sudo mv AYNA Music
+sudo mv When\ It\'s\ all\ said\ and\ done Music
+sudo mv 4275\ \(Bonus\ Version\) Music
+sudo pacman -S lf
+sudo pacman -Rns thunderbird
+lf
+sudo systemctl poweroff
+loadkeys en
+amixer set Capture toggle
+mkdir flutter
+cd flutter
+sudo pacman -S wget
+xdg-open pvo4TDEyRbk
+rm -rf ~/.config/nvim\
+rm -rf ~/.local/share/nvim\
+rm -rf ~/.cache/nvim
+git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1 && nvim
+nest g ressource user
+nest g resource user
+sudo pacman -Sy archlinux-keyring
+du rhel-baseos-9.1-x86_64-dvd.iso\?user=fc6b545d70f42b635629348bd4680af0\&_auth_=1674230766_5a10f6e53c091b1ed604fecabb5b9cbb
+du -H rhel-baseos-9.1-x86_64-dvd.iso\?user=fc6b545d70f42b635629348bd4680af0\&_auth_=1674230766_5a10f6e53c091b1ed604fecabb5b9cbb
+du -Hh rhel-baseos-9.1-x86_64-dvd.iso\?user=fc6b545d70f42b635629348bd4680af0\&_auth_=1674230766_5a10f6e53c091b1ed604fecabb5b9cbb
+sudo pacman -S 7z
+sudo pacman -Ss 7z
+sudo pacman -Ss p7zip
+sudo pacman -S p7zip
+7z SF-Mono.dmg
+tldr 7z
+7z x SF-Mono.dmg
+yay -S brave-bin
+sudo mv Downloads/rhel-baseos-9.1-x86_64-dvd.iso\?user=fc6b545d70f42b635629348bd4680af0\&_auth_=1674230766_5a10f6e53c091b1ed604fecabb5b9cbb /mnt
+mv rhel-baseos-9.1-x86_64-dvd.iso\?user=fc6b545d70f42b635629348bd4680af0\&_auth_=1674230766_5a10f6e53c091b1ed604fecabb5b9cbb rhel-baseos-9.1-x86_64-dvd.iso
+sudo mv rhel-baseos-9.1-x86_64-dvd.iso /mnt
+ls /mnt/
+du -h /mnt/rhel-baseos-9.1-x86_64-dvd.iso
+ls -ls
+ls -ls /mnt
+mkdir anales
+mkdir surtable
+cd surtable
+cal 
+tldr zip
+zip -r anales.zip anales
+zip -r examen.zip anales
+mv anales examen
+rm examen.zip
+zip -r examen.zip examen
+docker rm a7ead278617e e2a7bb4c8b0f 0222636f47fb
+docker rm 45881598b1cc da04cd131fb3 20ed5f53c49e cfb270edcc11 bd59038ec943 4da0630a3797 d373dd65a402 211ad94dcb9b
+docker ps0
+docker volume create portainer_data
+docker run -d -p 8000:8000 -p 9443:9443 --name portainer --restart=always -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data portainer/portainer-ce:latest
+nmcli device show 
+archlinux-java
+archlinux-java get
+mkdir B2W
+mv ~/Downloads/PAMF-MVOLA\ Interface\ specification.xlsx .
+mv Downloads/BTW-AppairageDigital-DocumentTechnique.pptx Documents/B2W
+yay -Ss openoffice
+yay -S openoffice-bin
+yay -Rns openoffice-bin
+mkdir QRCode
+nvim flowchart
+nvim sequencediagram
+sudo pacman -S ntfs-3g
+blkid /dev/sda4
+sudo clear
+sudo blkid /dev/sda4
+sudo mount -a
+fdisk -l
+sudo fdisk -l
+ntfsfix -h
+sudo umount /mnt/D
+ntfsfix /dev/sda4
+sudo ntfsfix /dev/sda4
+sudo mount /dev/sda4 /mnt/D
+cp ~/Documents/tabler /mnt/D
+cp -r ~/Documents/tabler /mnt/D
+rm -rf tabler
+sudo nvim /etc/fstab
+yay -Ss rustdesk
+yay -S rustdesk-bin
+yay -Rns rustdesk-bin
+yay -Ss remmina
+sudo pacman -S remmina
+sudo pacman -Rns remmina
+yay -S dbeaver-ee
+archlinux-java set java-11-openjdk
+sudo archlinux-java set java-11-openjdk
+yay -Rns dbeaver-ee
+yay -Ss dbeaver-ee
+yay -Ss dbeaver
+yay -S dbeaver-le
+cd B2W
+git clone git@gitlab.com:pamf1/e-voucher.git pamf-api
+cd pamf-api
+git branch
+git switch master
+sls
+nvim pamf-intranet
+nvim pamf-intranet/
+cp .env ~/Documents
+mv .env env
+cd pamf-intranet
+cd qrcode-back
+cd Documents/qrcode-back
+nvim sequencediagramQrClient
+cat sequencediagram
+cat sequencediagramQrClient
+mv flowQRcodeMerchant.pdf sequenceQRcodeMerchant.pdf 
+mv flowQRcodeClient.pdf sequenceQRcodeClient.pdf 
+nvim sequenceQRcodeClient.mermaid
+mv sequenceQRcodeClient.mermaid sequenceQRcodeMerchant.mermaid 
+nvim flowQrCodeClient.mermaid
+xdg-open flowQRcodeClient.pdf
+xdg-open sequenceQRcodeClient.pdf
+xdg-open sequenceQRcodeMerchant.pdf
+rm -rf singleapi
+git clone https://github.com/gothinkster/laravel-realworld-example-app.git singleapi
+cd singleapi
+yay -Qs php
+yay -Rns php
+yay -Rns php-sqlsrv php-pdo_sqlsrv php-gd
+yay -Rns php-sqlsrv php-pdo_sqlsrv php-gd composer
+yay -S php74
+yay -S php-gd
+php -v
+php-config
+yay -Ss composer
+sudo pacman -S compsoer
+sudo pacman -S composer
+yay -Ss php-
+yay -Ss php- | grep sqlsrv
+yay -S php-pdo_sqlsrv php-sqlsrv
+php --ini
+sudo nvim /etc/php/php.ini
+mv singleapi realworld
+composer create-project laravel/laravel linkageplatform
+nest new nestpamf
+cd nestpamf
+cat package.json
+yarn start:dev
+cd Documents/B2W
+git clone https://github.com/lujakob/nestjs-realworld-example-app.git nestrealworld
+cd nestrealworld
+git switch nest
+git switch prisma
+docker stop 2cf5faef2630
+docker rm 2cf5faef2630
+docker stop 6ccc51062827
+docker rm 6ccc51062827
+docker image ps
+docker images
+docker image rm b939d379d46e
+docker pull mysql
+docker run --name mysql-container -e MYSQL_ROOT_PASSWORD=password -d mysql
+sudo docker exec -it mysql-container mysql -u root -p
+docker exec -it mysql-container mysql -u root -p
+docker stop mysql-container
+docker rm mysql-container
+docker run --name mysql -e MYSQL_ROOT_PASSWORD=123456 -p 3306:3306 -d mysql
+docker exec -it mysql -u root -p
+docker exec -it mysql mysql -u root -p
+docker stop mysql
+docker rm mysql
+docker ps -a
+docker run --name some-mysql -e MYSQL_ROOT_PASSWORD=123456 -d mysql
+docker run -it --rm some-mysql mysql -uroot -p
+docker run -it some-mysql -uroot -p
+docker run -it some-mysql mysql -uroot -p
+docker run -it mysql -uroot -p
+cat flowchart
+nvim flowQrCodeMerchant.mermaid
+cd Documents/QRCode
+xdg-open flowQRcodeMerchant.pdf
+sqlcmd -S 192.168.123.16,1433 -d mvola_linkage -U andrianina -P Debianlnx1$ -C
+sqlcmd -S 192.168.123.16,1433 -U andrianina -P Debianlnx1$ -C
+rm -rf test-api
+nest new test-api
+yarn add csurf
+yarn add @nestjs/throttler
+yarn remove csurf
+yarn add @nestjs/passport passport passport-headerapikey
+nest g m auth
+nest g mo auth
+nest g service auth
+nest g middleware middleware/auth
+yarn add @nestjs/config
+node
+sudo pacman -S dbeaver
+cd scripts
+cp -r scripts ~/Documents
+cd SQL
+cd Anja
+cp -r Anja ~/Documents/scripts
+curl -X POST http://localhost:3000/auth/login -d '{"username": "john", "password": "changeme"}' -H "Content-Type: application/json"
+curl -X POST http://localhost:3000/api/auth/login -d '{"username": "john", "password": "changeme"}' -H "Content-Type: application/json"
+cat spotify.desktop
+sudo lsblk -l
+sudo pacman -S kde-connect
+cat spotify-adblock.desktop
+sudo pacman -S kdeconnect
+loginctl lock-session
+xdg-open How\ to\ screenshot\ a\ webpage\ on\ your\ iPhone\ \(you\ need\ this\ trick\)\ \ Mashable.pdf
+sudo cp VisualStudioSetup.exe /mnt/D
+sudo pacman -S dotnet-sdk
+dotnet --list-sdk
+dotnet --list-sdks
+nvim completions.zsh
+dotnet new mvc -o MvcMovie
+cd MvcMovie
+sudo pacman -S dotnet-runtime
+cd .dotnet/
+dotnet --list-runtimes
+sudo pacman -S aspnet-runtime
+cd ./.dotnet/tools
+rm -rf MvcMovie
+dotnet new webapp -o ContosoUniversity
+cd ContosoUniversity
+dotnet tool install --global dotnet-ef
+dotnet ef
+source ~/.zshenv
+nvim ~/.zshenv
+bash
+cd Documents/ContosoUniversity
+dotnet-ef
+cd .dotnet/tools
+nvim commands
+dotnet new razor -o Qrcode
+cd Qrcode
+mkdir Pages/Customers
+mkdir Pages/Roles
+rm -rf Qrcode
+rm -rf ContosoUniversity
+dotnet new webapp -o Qrcodedotnet
+cd Qrcodedotnet
+<dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+dotnet-aspnet-codegenerator webapp --model Role --dataContext QrcodeContext --relativeFolderPath Pages/Roles --referenceScriptLibraries
+rm -rf Qrcodedotnet
+ls Qrcode
+dotnet new razor -o QrcodeDotnet
+cd QrcodeDotnet
+dotnet-aspnet-codegenerator razorpage --model Role --dataContext QrcodeContext --relativeFolderPath Pages/Roles --referenceScriptLibraries
+dotnet-aspnet-codegenerator razorpage --model User --dataContext QrcodeContext --relativeFolderPath Pages/Users --referenceScriptLibraries
+dotnet add package Microsoft.EntityFrameworkCore.SQLite
+dotnet-aspnet-codegenerator razorpage -m User -dc QrcodeContext -outDir Pages/Users -scripts -l Shared/_Layout.cshtml
+dotnet-aspnet-codegenerator razorpage -m User -dc QrcodeContext -outDir Pages/Users -scripts -l Shared/_Layout
+dotnet run
+rm -rf QrcodeDotnet
+dotnet new mvc -o MvcQr
+dotnet add package Microsoft.EntityFrameworkCore.Design
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+cat ~/commands
+dotnet-ef dbcontext scaffold "Server=192.168.123.16;Database=QRCode;User ID=andrianina;Password=Debianlnx1$;TrustServerCertificate=true;" Microsoft.EntityFrameworkCore.SqlServer --context-dir Data --output-dir Models/Generated --context-namespace Qrcode.Data --namespace Qrcode.Models --data-annotations
+dotnet user-secrets init
+dotnet user-secrets set "ConnectionStrings:Qrcode" "Server=192.168.123.16;Database=QRCode;User ID=andrianina;Password=Debianlnx1$;TrustServerCertificate=true;"
+dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design
+dotnet-aspnet-codegenerator razorpage -m Role -dc QrcodeContext -outDir Pages/Roles -scripts -udl
+dotnet-aspnet-codegenerator razorpage -m User -dc QrcodeContext -outDir Pages/Users -scripts -udl
+rm Pages/Users
+rm -rf Pages/Users
+rm -rf Pages/Roles
+nvim ~/commands
+sudo mkdir /mnt/macimage
+sudo mount -o loop -t hfsplus ~/Downloads/macfonts/SF-Mono\(1\).dmg /mnt/macimage
+dmesg
+sudo mount -o loop -t hfs ~/Downloads/macfonts/SF-Mono\(1\).dmg /mnt/macimage
+sudo mount -o loop ~/Downloads/macfonts/SF-Mono\(1\).dmg /mnt/macimage
+sudo dmesg
+nvim .config/alacritty/alacritty.yml
+mkdir macfonts
+mv SF-Mono\(1\).dmg SF-Mono.dmg SF-Compact.dmg macfonts
+ls -la
+rm SF-Mono.dmg
+7z x SF-Mono\(1\).dmg
+7z X SF\ Mono\ Fonts.pkg
+cd .HFS+\ Private\ Directory\ Data$'\r'
+yay -Ss wine
+sudo pacman -S dmg2img
+sudo mount -o loop -t hfs /mnt/macimage
+sudo mount -o loop -t hfs SF-Mono.img /mnt/macimage
+udo modprobe hfsplus
+sudo modprobe hfsplus
+sudo mount -o loop -t hfsplus SF-Mono.img /mnt/macimage
+sudo mount -o loop SF-Mono.img /mnt/macimage
+file SF-Mono\(1\).dmg
+file SF\ Mono\ Fonts.pkg
+file Payload\~
+7z l SF\ Mono\ Fonts.pkg
+7z l SF-Mono\(1\).dmg
+dmg2img SF-Mono\(1\).dmg SF-Mono.img
+mv SF-Mono\(1\).dmg SF-Mono.dmg
+file SF-Mono.dmg
+file SF-Mono.img
+cd SFMonoFonts
+cd Library
+rm SF-Mono.img
+7z x SF-Compact.dmg
+7z x SF\ Compact\ Fonts.pkg
+tree Library
+sudo pacman -Rns dmg2img
+fc-list | grep SF Mono
+fc-list | grep "SF Mono"
+fc-list | grep "SF Compact"
+cd /usr/share/fonts
+find | grep *.otf
+find | grep otf
+sudo mkdir macfonts
+fc-match 
+fc-match
+fc-match SF Mono
+fc-match SF
+fc-match "Compact"
+fc-match Compact
+fc-list | grep SF
+rm -rf macfonts
+sudo rm -rf macfonts
+ls /usr/share/fonts
+ls /usr/share/fonts/TTF
+cp Downloads/macfonts/SFMonoFonts/Library/Fonts/*.otf /usr/share/fonts/macfonts
+sudo cp Downloads/macfonts/SFMonoFonts/Library/Fonts/*.otf /usr/share/fonts/macfonts
+sudo cp Downloads/macfonts/SFCompactFonts/Library/Fonts/*.otf /usr/share/fonts/macfonts
+sudo cp Downloads/macfonts/SFCompactFonts/Library/Fonts/*.ttf /usr/share/fonts/macfonts
+flutter doctor
+gpasswd -a ${USER} flutterusers
+sudo gpasswd -a ${USER} flutterusers
+newgrp flutterusers
+yay -Rns ttf-mac-fonts
+fc-cache -h
+whatis fc-chache
+whatis fc-cache
+fc-cache
+cd macfonts/SFMonoFonts/Library/Fonts
+sudo mkdir /usr/share/fonts/macfonts
+cd SFCompactFonts
+cp *.otf /usr/share/fonts/macfonts
+cp *.ttf /usr/share/fonts/macfonts
+fc-list
+6
+rm -rf SFProFonts
+mv SF-Pro.dmg macfonts
+7z x SF-Pro.dmg
+cd SFProFonts
+7z x SF\ Pro\ Fonts.pkg
+mv NY.dmg macfonts
+cd macfonts
+7z x NY.dmg
+cd NYFonts
+7z x NY\ Fonts.pkg
+7z x Payload\~
+cd Library/Fonts
+sudo cp *.ttf /usr/share/fonts/macfonts
+sudo cp *.otf /usr/share/fonts/macfonts
+ls /usr/share/fonts/macfonts
+sudo pacman -Rns jdk19_openjdk
+sudo pacman -Rns jdk19-openjdk
+sudo pacman -Rns jdk-19-openjdk
+sudo pacman -Rns java-19-openjdk
+sudo pacman -Rns jdk-openjdk
+sudo pacman -Rns jre-openjdk
+sudo rm -rf /usr/share/fonts/macfonts
+python -v
+sudo pacman -S jupyter-notebook
+bash -c "$(curl -L https://raw.githubusercontent.com/paperless-ngx/paperless-ngx/main/install-paperless-ngx.sh)"\
+
+Äƒ©lear
+xdg-open PartnerReconciliation.pdf
+yay -S skypeforlinux-stable-bin
+mv photo1675379210.jpeg profile.jpeg
+mkdir ~/pamf
+sudo cp *.xlsx ~/pamf
+sudo cp Double_Loans.xlsx ~/pamf
+sudo cp Export.xlsb ~/pamf
+cd pamf
+ss -tlpn | grep 8000
+ss -tulpn | grep 8000
+ss -taupen | grep 8000
+cd paperless-ngx
+bash -c "$(curl -L https://raw.githubusercontent.com/paperless-ngx/paperless-ngx/main/install-paperless-ngx.sh)"
+sudo pacman -S arandr
+sudo pacman -S autorandr
+autorandr
+xrandr --output HDMI-1 --left-of eDP-1
+sudo pacman -Rns autorandr
+sudo pacman -S ttf-dejavu ttf-liberation noto-fonts
+sudo ln -s /etc/fonts/conf.avail/70-no-bitmaps.conf /etc/fonts/conf.d
+cat /etc/fonts/conf.d/10-sub-pixel-rgb.conf
+rm /etc/fonts/conf.d/10-sub-pixel-rgb.conf
+sudo rm /etc/fonts/conf.d/10-sub-pixel-rgb.conf
+sudo ln -s /etc/fonts/conf.avail/10-sub-pixel-rgb.conf /etc/fonts/conf.d
+sudo rm /etc/fonts/conf.d/11-lcdfilter-default.conf
+sudo ln -s /etc/fonts/conf.avail/11-lcdfilter-default.conf /etc/fonts/conf.d
+sudo /etc/profile.d/freetype2.sh
+ls /etc/profile.d
+ls -l /etc/profile.d
+sudo chmod +x /etc/profile.d/freetype2.sh
+cat /etc/profile.d/freetype2.sh
+sudo nvim /etc/profile.d/freetype2.sh
+/etc/profile.d/freetype2.sh
+ls /etc/fonts/
+clear\
+
+cat /sys/class/drm/card0-*/monitor-VGA-0/fps\
+
+cd /sys/class/drm/card0-eDP-1
+tree | grep fps
+arandr
+tldr xrandr
+xrandr
+xrandr -r 75
+yay -S ttf-mac-fonts
+sudo nvim /etc/fonts/local.conf
+yay -Ss hack-nerd-fonts
+yay -S ttf-hack-nerd
+fc-cache -v
+sudo pacman -S direnv
+cd .config/zsh/
+nvim .config/starship.toml
+sudo pacman -Rns direnv
+rm starship.zsh 
+cd MvcQr
+yay -Rns ttf-hack-nerd
+yay -Ss vlc
+cd /mnt
+du ML.tar.gz
+du -h ML.tar.gz
+cd hiradada
+du -h hiradada
+lear
+sudo pacman -S vlc
+sudo cp /mnt/ML.tar.gz .
+tar xzf ML.tar.gz
+cd ML
+cd Machine\ Learning\ Coursera
+cd Deep\ Learning\ Book
+xdg-open The\ Deep\ Learning\ Book.pdf
+archlinux-java status
+cp "INSTALLATION ET CONFIGURATION VPN SUR ANDROID.DOCX" "INSTALLATION ET CONFIGURATION APPLOCK.DOCX"
+adb pull storage/sdcard0/Pictures/Screenshots/Screenshot_2023-02-07-10-20-48-214.jpeg .
+xdg-open Screenshot_2023-02-07-10-20-48-214.jpeg
+rm Screenshot_2023-02-07-10-20-48-214.jpeg
+adb pull storage/sdcard0/Pictures/Screenshots/*.jpeg .
+adb pull storage/sdcard0/Pictures/Screenshots/Screenshot_2023-02-07-10-21-03-092.jpeg
+rm Screenshot_2023-02-07-10-21-03-092.jpeg
+adb pull storage/sdcard0/Pictures/Screenshots/Screenshot_2023-02-07-10-36-35-782.jpeg .
+xdg-open Screenshot_2023-02-07-10-36-35-782.jpeg
+rm Screenshot_2023-02-07-10-36-35-782.jpeg
+adb pull storage/sdcard0/Pictures/Screenshots/Screenshot_2023-02-07-10-36-53-644.jpeg .
+xdg-open Screenshot_2023-02-07-10-36-53-644.jpeg
+rm Screenshot_2023-02-07-10-36-53-644.jpeg
+adb pull storage/sdcard0/Pictures/Screenshots/Screenshot_2023-02-07-10-37-28-470.jpeg .
+xdg-open Screenshot_2023-02-07-10-37-28-470.jpeg
+adb devices
+cls
+sudo pacman -S keepassxc
+rm Passwords.kdbx
+c.velomananjara@pamf.mg Qwerty2$
+yay -Ss vscode
+sudo pacman -S code
+claer
+nvim ~/.config/zsh/.zshrc
+nvim .bash_history
+yay -S unityhub
+sudo pacman -Rns code
+yay -Ss gimp
+sudo pacman -S gimp
+lspci
+lspci -v -s 0000:00:02.0
+sudo pacman -S feh
+feh -h
+feh Pictures/background.png
+killall feh
+xsetroot
+nvim ~/.config/bspwm/bspwmrc
+yay -Ss zoom
+yay -S zoom
+sudo pacman -S obsidian
+rm -rf obsidian/vault\ one
+amixer set Capture 5%+
+amixer set Capture 5%-
+cd Documents/obsidian
+cd Knowledge\ base
+git clone https://github.com/ChristianLempa/cheat-sheets.git
+rm cheat-sheets/**/* .
+mv cheat-sheets/**/* .
+l
+rm -rf cheat-sheets
+ncdu /
+cat /usr/share/applications/spotify.desktop
+yay -S spotify-adblock
+cd /usr/share/applications
+rm spotify.desktop.bak
+sudo rm spotify.desktop.bak
+mv spotify.desktop spotify.desktop.bak
+sudo mv spotify.desktop spotify.desktop.bak
+mv spotify-adblock.desktop spotify.desktop
+sudo mv spotify-adblock.desktop spotify.desktop
+sudo nvim spotify.desktop
+unzip ExercicesPratiques.zip
+cd ExercicesPratiques
+cal -3
+cd QRCode
+mv mermaid-diagram-2023-02-10-140647.png apisequence.png
+mv mermaid-diagram-2023-02-10-140958.png apisequence.png
+xdg-open apisequence.png
+nmcli device wifi show-password
+sudo pacman -S scrot
+cd .local
+mkdir bin
+ls .local/bin
+echo 
+echo $PATH
+nvim ~/.config/sxhkd/sxhkdrc
+nvim screenshot
+ls Pictures/Screenshot_2023-02-07-10-37-28-470.jpeg
+mkdir screenshots
+cd .local/bin
+nvim .local/bin/screenshot
+sudo chmod +x screenshot
+sudo chmod +x .local/bin/screenshot
+screenshot
+scrot
+xdg-open 2023-02-11-074253_1920x1080_scrot.png
+rm 2023-02-11-074253_1920x1080_scrot.png
+cd Pictures
+rm Screenshot_2023-02-07-10-37-28-470.jpeg
+xdg-open F7CFGHD.jpg
+rm F7CFGHD.jpg
+ls screenshots
+cd screenshots
+rm 2023-02-11-07:44:56-screenshot.png
+sleep 3
+xdg-open 2023-02-11-07:48:26-screenshot.png
+xev
+killall xev
+cd Pictures/screenshots
+rm *.png
+showkey --scancodes
+startx
+ls Pictures/screenshots
+rm Pictures/screenshots/2023-02-11-08:17:26-screenshot.png
+xev | awk -F'[ )]+' '/^KeyPress/ { a[NR+2] } NR in a { printf "%-3s %s\n", $5, $8 }'
+uname -a
+nvim .config/sxhkd/sxhkdrc
+mkdir AIportfolioManagment
+tldr coursera-dl
+coursera-dl -h
+mkdir coursera
+coursera-dl -u JohnPShort@armyspy.com -p Debianlnx1 machine-learning
+coursera-dl -u "JohnPShort@armyspy.com" -p Debianlnx1 machine-learning
+coursera-dl -u "JohnPShort@armyspy.com" -p "Debianlnx1" machine-learning
+coursera-dl -u JohnPShort@armyspy.com -p Debianlnx1 "https://www.coursera.org/learn/machine-learning"
+coursera-dl -u JohnPShort@armyspy.com -p Debianlnx1 https://www.coursera.org/learn/machine-learning
+coursera-dl --help
+coursera-dl -u JohnPShort@armyspy.com -p Debianlnx1 ml-005
+coursera-dl -u JohnPShort@armyspy.com -p Debianlnx1 algo-2012-002
+coursera-dl algo-2012-002
+coursera-dl -u JohnPShort@armyspy.com algo-2012-002
+coursera-dl -u JohnPShort algo-2012-002
+touch coursera-dl.conf
+nvim coursera-dl.conf 
+coursera-dl machine-learning
+docker run --rm -it -v \\
+    "$(pwd):/courses" \\
+    courseradl/courseradl -u JohnPShort@armyspy.com -p Debianlnx1\
+
+docker run --rm -it -v \\
+    "$(pwd):/courses" \\
+    courseradl/courseradl -u JohnPShort@armyspy.com -p Debianlnx1 machine-learning\
+
+mkdir -p /srv/nfs/public /mnt/public
+sudo mkdir -p /srv/nfs/public /mnt/public
+mount --bind /mnt/public /srv/nfs/public
+cd /mnt/public
+rm -rf /mnt/public
+sudo rm -rf /mnt/public
+sudo umount /srv/nfs/public
+sudo rm -rf /srv/nfs
+sudo pacman -S nfs-utils
+sudo nvim /etc/exports
+mount --bind /mnt/music /srv/nfs/music
+sudo mount --bind /mnt/music /srv/nfs/music
+sudo mount --bind /mnt/public /srv/nfs/public
+nvim /etc/exports
+exportfs -arv
+sudo exportfs -arv
+showmount -e 192.168.123.67
+sudo mkdir /mnt/public
+sudo mount 192.168.123.67:/ /mnt/public
+findmnt
+sudo umount /mnt/public
+ls /mnt/public
+git clone https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera.git
+cd Machine-Learning-Specialization-Coursera
+jupyter notebook
+sudo nvim /etc/pacman.d/mirrorlist
+nvim ~/.config/alacritty/alacritty.yml
+cd zsh
+nvim starship.zsh
+cd 
+cd Documents/
+cd test-api
+3
+nvim .zshrc
+rm starship.zsh
+cd .config
+nvim starship.toml
+rm starship.toml
+sudo dd if=/dev/zero of=/swapfile bs=1G count=12 status=progress
+du /swapfile
+du -h /swapfile
+rm /swapfile
+sudo rm /swapfile
+cd Android
+yay -Rns php-sqlsrv php-pdo_sqlsrv
+yay -S php-sqlsrv php-pdo_sqlsrv
+lscpu
+ls /usr/bin | wc -l
+which python
+python -V
+sudo pacman -S python-pip
+pip install coursera-dl
+coursera-dl --video-resolution 720p --download-quizzes -ca MSWTTlzTdLLQJdeaPs43DJUL4IqgdRYA4Ah67t94npL9iw2_2cWSMi3MvPpaXwuGOkMgnLOQ4a9QpFGq_SLw_w.aQpZdB-beG0254feYGgdIg.teGT1LtFwsqCmLzIf7Cy2oQnm-87IQ7Xfay-yNoUV0iZjgRiw_egZBvSG3AWFAQ3y7U4jrdoIQy-loUW647OkALPXLj44-28lWUoiR2DzNdfsCFOGXlQDPwSRQnte0K-QrY0tyCL4GM_oDVeQG0crwDcFttgnLxiiGc-U83dxPlylzNEmPx8XEHoKIW64czATpaotDiBxA7rbzaN_OG__t1k9tP3mOIEkx29oLeDJek5rik1vLrikwpNxIiiDboX1meeuNThfOeViPk5uQM3GnWrL6NRWOe0AGcnlGTsBn0rki3c62-PuiT0gvJa_1spSnlg0eaqXhQk5er0qsvPA1YE8LMnHTsLPkVzGRZGRRcK4zVViptwsBDZUEaAUywGwuBafKgsp4m4oCFPtIdpTg machine-learning
+coursera-dl --download-quizzes -ca MSWTTlzTdLLQJdeaPs43DJUL4IqgdRYA4Ah67t94npL9iw2_2cWSMi3MvPpaXwuGOkMgnLOQ4a9QpFGq_SLw_w.aQpZdB-beG0254feYGgdIg.teGT1LtFwsqCmLzIf7Cy2oQnm-87IQ7Xfay-yNoUV0iZjgRiw_egZBvSG3AWFAQ3y7U4jrdoIQy-loUW647OkALPXLj44-28lWUoiR2DzNdfsCFOGXlQDPwSRQnte0K-QrY0tyCL4GM_oDVeQG0crwDcFttgnLxiiGc-U83dxPlylzNEmPx8XEHoKIW64czATpaotDiBxA7rbzaN_OG__t1k9tP3mOIEkx29oLeDJek5rik1vLrikwpNxIiiDboX1meeuNThfOeViPk5uQM3GnWrL6NRWOe0AGcnlGTsBn0rki3c62-PuiT0gvJa_1spSnlg0eaqXhQk5er0qsvPA1YE8LMnHTsLPkVzGRZGRRcK4zVViptwsBDZUEaAUywGwuBafKgsp4m4oCFPtIdpTg machine-learning
+coursera-dl -ca MSWTTlzTdLLQJdeaPs43DJUL4IqgdRYA4Ah67t94npL9iw2_2cWSMi3MvPpaXwuGOkMgnLOQ4a9QpFGq_SLw_w.aQpZdB-beG0254feYGgdIg.teGT1LtFwsqCmLzIf7Cy2oQnm-87IQ7Xfay-yNoUV0iZjgRiw_egZBvSG3AWFAQ3y7U4jrdoIQy-loUW647OkALPXLj44-28lWUoiR2DzNdfsCFOGXlQDPwSRQnte0K-QrY0tyCL4GM_oDVeQG0crwDcFttgnLxiiGc-U83dxPlylzNEmPx8XEHoKIW64czATpaotDiBxA7rbzaN_OG__t1k9tP3mOIEkx29oLeDJek5rik1vLrikwpNxIiiDboX1meeuNThfOeViPk5uQM3GnWrL6NRWOe0AGcnlGTsBn0rki3c62-PuiT0gvJa_1spSnlg0eaqXhQk5er0qsvPA1YE8LMnHTsLPkVzGRZGRRcK4zVViptwsBDZUEaAUywGwuBafKgsp4m4oCFPtIdpTg machine-learning
+pip uninstall coursera-dl
+nvim 
+ping api.coursera.org
+ls my-coursera
+cd classification-vector-spaces-in-nlp
+s
+cat coursera-dl.conf
+rm coursera-dl.conf
+ls Machine-Learning-Specialization-Coursera
+rm -rf Machine-Learning-Specialization-Coursera
+mkdir "Natural Language Processing Specialization"
+mv my-coursera/coursera-dl-fork/1-classification-vector-spaces-in-nlp Natural\ Language\ Processing\ Specialization
+mv my-coursera/coursera-dl-fork/2-probabilistic-models-in-nlp Natural\ Language\ Processing\ Specialization
+mv my-coursera/coursera-dl-fork/3-sequence-models-in-nlp Natural\ Language\ Processing\ Specialization
+mv my-coursera/coursera-dl-fork/4-attention-models-in-nlp Natural\ Language\ Processing\ Specialization
+cd Natural\ Language\ Processing\ Specialization
+du -h Natural\ Language\ Processing\ Specialization
+yay -S coursera-dl
+coursera-dl --download-quizzes -ca hDpSsbhYQKplF6zDAb_ywU8-0J8yW-Zceuc17SN_Hadpz6TasT3tFRFQl8vhQXBZsGZZU9QBmPDL2PGLJBGpcg.dQO1yWf8WRXDZgIYiksjDg.L1IXFAy3Cmco9E7gP3dMtTMIrDpYlO5pMeZPunM8kW2-PEp9thRSWhlB4V2-6ke5inPZwnPWB2WIesaxpRXZaXbfpFAjZjYcX8VG2cICeoTYDXyHRO1yqMcexbD8BSR7QTpbztttJzPjkAoBysOgzwWKaWb8QiydEQnc-58vIEzeItvYZgsJtZ2hw6zeFdI-H5PNK9L7Hr3UEoSgS74kGpWE1aKgypd5SgctlYD3_JoCCMr4b4TUyrA1lNQcj4RjKh1kXEMvngq6hAamroZ-fAV0jCHAD2_o4OJFmYdXO4smGvWmIu2arQU5Cj-Gjzp7pGl7L_n6GIKIxwoOIhVObQdLs0FzPaibDm4i00_8_Jj4wsbCyviUIbMU7L78PW7-spaUNBv6aPaZDmOWAh__3w classification-vector-spaces-in-nlp
+sudo pacman -S python-virtualenv
+rm -rf my-coursera
+rm -rf coursera-dl-fork
+virtualenv my-coursera
+cd my-coursera
+source bin/activate
+git clone https://github.com/raffaem/coursera-dl.git coursera-dl-fork
+cd coursera-dl-fork
+pip install -r requirements.txt
+yay -Rns coursera-dl
+coursera-dl
+./coursera-dl --download-quizzes --video-resolution 720p -ca b0Vor2ZAwDMDv-PlXJcr1eoblIvzR_ruE1eJQ4cyU7rDZdvUUnYuhsLRk5U_3fR6AXTW73DIZ4pDwtOEzWSaMg.HEM397_CncG9Sxpp71R-LQ.T6j9yr2Nf5fW5Gi9PQjfQmbjHlvUCIu0pIptGihYW7lqqSOmmp53W5P8cKGxIDj1TVagCc-8BA3Fph8D5oOkq0a53vfT4lpF8LlBeprDswHMPLZqEYQyfFsKU_261gDNuToLBr159PFDhrPK2j7MdAXcCNkmPr9BfX4Lo3N0PWTy9LimtaP8jJ_KpOmqBdZgPAVjp1xJ0NDDVduLE4hLsLjZhkXJnMrgKirmH7HUCGtCJd1HXwTD1PiwVsCghmf1dvlS724dbJFiGxE-vonjpccR22ervpTdx41gDpcolzS0zDUC8TL0jin7OUvBAeroHiIxpt5QdLLramKXmNcd1ChGFwOUtufQ8rZk7LxjTi-IQjExz5UbU0Q5LrL-fTxILgTN-xu-mdGKj9w0d7HNzg classification-vector-spaces-in-nlp
+./coursera-dl --download-quizzes --video-resolution 720p -ca b0Vor2ZAwDMDv-PlXJcr1eoblIvzR_ruE1eJQ4cyU7rDZdvUUnYuhsLRk5U_3fR6AXTW73DIZ4pDwtOEzWSaMg.HEM397_CncG9Sxpp71R-LQ.T6j9yr2Nf5fW5Gi9PQjfQmbjHlvUCIu0pIptGihYW7lqqSOmmp53W5P8cKGxIDj1TVagCc-8BA3Fph8D5oOkq0a53vfT4lpF8LlBeprDswHMPLZqEYQyfFsKU_261gDNuToLBr159PFDhrPK2j7MdAXcCNkmPr9BfX4Lo3N0PWTy9LimtaP8jJ_KpOmqBdZgPAVjp1xJ0NDDVduLE4hLsLjZhkXJnMrgKirmH7HUCGtCJd1HXwTD1PiwVsCghmf1dvlS724dbJFiGxE-vonjpccR22ervpTdx41gDpcolzS0zDUC8TL0jin7OUvBAeroHiIxpt5QdLLramKXmNcd1ChGFwOUtufQ8rZk7LxjTi-IQjExz5UbU0Q5LrL-fTxILgTN-xu-mdGKj9w0d7HNzg probabilistic-models-in-nlp
+cd probabilistic-models-in-nlp
+./coursera-dl --download-quizzes --video-resolution 720p -ca b0Vor2ZAwDMDv-PlXJcr1eoblIvzR_ruE1eJQ4cyU7rDZdvUUnYuhsLRk5U_3fR6AXTW73DIZ4pDwtOEzWSaMg.HEM397_CncG9Sxpp71R-LQ.T6j9yr2Nf5fW5Gi9PQjfQmbjHlvUCIu0pIptGihYW7lqqSOmmp53W5P8cKGxIDj1TVagCc-8BA3Fph8D5oOkq0a53vfT4lpF8LlBeprDswHMPLZqEYQyfFsKU_261gDNuToLBr159PFDhrPK2j7MdAXcCNkmPr9BfX4Lo3N0PWTy9LimtaP8jJ_KpOmqBdZgPAVjp1xJ0NDDVduLE4hLsLjZhkXJnMrgKirmH7HUCGtCJd1HXwTD1PiwVsCghmf1dvlS724dbJFiGxE-vonjpccR22ervpTdx41gDpcolzS0zDUC8TL0jin7OUvBAeroHiIxpt5QdLLramKXmNcd1ChGFwOUtufQ8rZk7LxjTi-IQjExz5UbU0Q5LrL-fTxILgTN-xu-mdGKj9w0d7HNzg sequence-models-in-nlp
+./coursera-dl --download-quizzes --video-resolution 720p -ca b0Vor2ZAwDMDv-PlXJcr1eoblIvzR_ruE1eJQ4cyU7rDZdvUUnYuhsLRk5U_3fR6AXTW73DIZ4pDwtOEzWSaMg.HEM397_CncG9Sxpp71R-LQ.T6j9yr2Nf5fW5Gi9PQjfQmbjHlvUCIu0pIptGihYW7lqqSOmmp53W5P8cKGxIDj1TVagCc-8BA3Fph8D5oOkq0a53vfT4lpF8LlBeprDswHMPLZqEYQyfFsKU_261gDNuToLBr159PFDhrPK2j7MdAXcCNkmPr9BfX4Lo3N0PWTy9LimtaP8jJ_KpOmqBdZgPAVjp1xJ0NDDVduLE4hLsLjZhkXJnMrgKirmH7HUCGtCJd1HXwTD1PiwVsCghmf1dvlS724dbJFiGxE-vonjpccR22ervpTdx41gDpcolzS0zDUC8TL0jin7OUvBAeroHiIxpt5QdLLramKXmNcd1ChGFwOUtufQ8rZk7LxjTi-IQjExz5UbU0Q5LrL-fTxILgTN-xu-mdGKj9w0d7HNzg attention-models-in-nlp
+mv classification-vector-spaces-in-nlp 1-classification-vector-spaces-in-nlp
+mv probabilistic-models-in-nlp 2-probabilistic-models-in-nlp
+mv sequence-models-in-nlp 3-sequence-models-in-nlp
+mv attention-models-in-nlp 4-attention-models-in-nlp
+./coursera-dl --download-quizzes --video-resolution 720p -ca b0Vor2ZAwDMDv-PlXJcr1eoblIvzR_ruE1eJQ4cyU7rDZdvUUnYuhsLRk5U_3fR6AXTW73DIZ4pDwtOEzWSaMg.HEM397_CncG9Sxpp71R-LQ.T6j9yr2Nf5fW5Gi9PQjfQmbjHlvUCIu0pIptGihYW7lqqSOmmp53W5P8cKGxIDj1TVagCc-8BA3Fph8D5oOkq0a53vfT4lpF8LlBeprDswHMPLZqEYQyfFsKU_261gDNuToLBr159PFDhrPK2j7MdAXcCNkmPr9BfX4Lo3N0PWTy9LimtaP8jJ_KpOmqBdZgPAVjp1xJ0NDDVduLE4hLsLjZhkXJnMrgKirmH7HUCGtCJd1HXwTD1PiwVsCghmf1dvlS724dbJFiGxE-vonjpccR22ervpTdx41gDpcolzS0zDUC8TL0jin7OUvBAeroHiIxpt5QdLLramKXmNcd1ChGFwOUtufQ8rZk7LxjTi-IQjExz5UbU0Q5LrL-fTxILgTN-xu-mdGKj9w0d7HNzg machine-learning
+./coursera-dl --download-quizzes --video-resolution 720p -ca b0Vor2ZAwDMDv-PlXJcr1eoblIvzR_ruE1eJQ4cyU7rDZdvUUnYuhsLRk5U_3fR6AXTW73DIZ4pDwtOEzWSaMg.HEM397_CncG9Sxpp71R-LQ.T6j9yr2Nf5fW5Gi9PQjfQmbjHlvUCIu0pIptGihYW7lqqSOmmp53W5P8cKGxIDj1TVagCc-8BA3Fph8D5oOkq0a53vfT4lpF8LlBeprDswHMPLZqEYQyfFsKU_261gDNuToLBr159PFDhrPK2j7MdAXcCNkmPr9BfX4Lo3N0PWTy9LimtaP8jJ_KpOmqBdZgPAVjp1xJ0NDDVduLE4hLsLjZhkXJnMrgKirmH7HUCGtCJd1HXwTD1PiwVsCghmf1dvlS724dbJFiGxE-vonjpccR22ervpTdx41gDpcolzS0zDUC8TL0jin7OUvBAeroHiIxpt5QdLLramKXmNcd1ChGFwOUtufQ8rZk7LxjTi-IQjExz5UbU0Q5LrL-fTxILgTN-xu-mdGKj9w0d7HNzg advanced-learning-algorithms
+./coursera-dl --download-quizzes --video-resolution 720p -ca b0Vor2ZAwDMDv-PlXJcr1eoblIvzR_ruE1eJQ4cyU7rDZdvUUnYuhsLRk5U_3fR6AXTW73DIZ4pDwtOEzWSaMg.HEM397_CncG9Sxpp71R-LQ.T6j9yr2Nf5fW5Gi9PQjfQmbjHlvUCIu0pIptGihYW7lqqSOmmp53W5P8cKGxIDj1TVagCc-8BA3Fph8D5oOkq0a53vfT4lpF8LlBeprDswHMPLZqEYQyfFsKU_261gDNuToLBr159PFDhrPK2j7MdAXcCNkmPr9BfX4Lo3N0PWTy9LimtaP8jJ_KpOmqBdZgPAVjp1xJ0NDDVduLE4hLsLjZhkXJnMrgKirmH7HUCGtCJd1HXwTD1PiwVsCghmf1dvlS724dbJFiGxE-vonjpccR22ervpTdx41gDpcolzS0zDUC8TL0jin7OUvBAeroHiIxpt5QdLLramKXmNcd1ChGFwOUtufQ8rZk7LxjTi-IQjExz5UbU0Q5LrL-fTxILgTN-xu-mdGKj9w0d7HNzg unsupervised-learning-recommenders-reinforcement-learning
+tree machine-learning
+mv machine-learning 1-machine-learning
+mv advanced-learning-algorithms 2-advanced-learning-algorithms
+mv unsupervised-learning-recommenders-reinforcement-learning 3-unsupervised-learning-recommenders-reinforcement-learning
+mkdir "Machine Learning Specialization"\
+\
+
+mv my-coursera/coursera-dl-fork/1-machine-learning Machine\ Learning\ Specialization
+mv my-coursera/coursera-dl-fork/2-advanced-learning-algorithms Machine\ Learning\ Specialization
+mv my-coursera/coursera-dl-fork/3-unsupervised-learning-recommenders-reinforcement-learning Machine\ Learning\ Specialization
+ls Machine\ Learning\ Specialization
+du - coursera
+du -h coursera
+cd coursera
+5
+./coursera-dl --download-quizzes --video-resolution 720p -ca b0Vor2ZAwDMDv-PlXJcr1eoblIvzR_ruE1eJQ4cyU7rDZdvUUnYuhsLRk5U_3fR6AXTW73DIZ4pDwtOEzWSaMg.HEM397_CncG9Sxpp71R-LQ.T6j9yr2Nf5fW5Gi9PQjfQmbjHlvUCIu0pIptGihYW7lqqSOmmp53W5P8cKGxIDj1TVagCc-8BA3Fph8D5oOkq0a53vfT4lpF8LlBeprDswHMPLZqEYQyfFsKU_261gDNuToLBr159PFDhrPK2j7MdAXcCNkmPr9BfX4Lo3N0PWTy9LimtaP8jJ_KpOmqBdZgPAVjp1xJ0NDDVduLE4hLsLjZhkXJnMrgKirmH7HUCGtCJd1HXwTD1PiwVsCghmf1dvlS724dbJFiGxE-vonjpccR22ervpTdx41gDpcolzS0zDUC8TL0jin7OUvBAeroHiIxpt5QdLLramKXmNcd1ChGFwOUtufQ8rZk7LxjTi-IQjExz5UbU0Q5LrL-fTxILgTN-xu-mdGKj9w0d7HNzg machine-learning-linear-algebra
+./coursera-dl --download-quizzes --video-resolution 720p -ca b0Vor2ZAwDMDv-PlXJcr1eoblIvzR_ruE1eJQ4cyU7rDZdvUUnYuhsLRk5U_3fR6AXTW73DIZ4pDwtOEzWSaMg.HEM397_CncG9Sxpp71R-LQ.T6j9yr2Nf5fW5Gi9PQjfQmbjHlvUCIu0pIptGihYW7lqqSOmmp53W5P8cKGxIDj1TVagCc-8BA3Fph8D5oOkq0a53vfT4lpF8LlBeprDswHMPLZqEYQyfFsKU_261gDNuToLBr159PFDhrPK2j7MdAXcCNkmPr9BfX4Lo3N0PWTy9LimtaP8jJ_KpOmqBdZgPAVjp1xJ0NDDVduLE4hLsLjZhkXJnMrgKirmH7HUCGtCJd1HXwTD1PiwVsCghmf1dvlS724dbJFiGxE-vonjpccR22ervpTdx41gDpcolzS0zDUC8TL0jin7OUvBAeroHiIxpt5QdLLramKXmNcd1ChGFwOUtufQ8rZk7LxjTi-IQjExz5UbU0Q5LrL-fTxILgTN-xu-mdGKj9w0d7HNzg machine-learning-calculus
+mv machine-learning-linear-algebra 1-machine-learning-linear-algebra
+mv machine-learning-calculus 2-machine-learning-calculus
+d
+1
+mkdir "Mathematics for Machine Learning and Data Science Specialization"
+mv my-coursera/coursera-dl-fork/1-machine-learning-linear-algebra Mathematics\ for\ Machine\ Learning\ and\ Data\ Science\ Specialization
+mv my-coursera/coursera-dl-fork/2-machine-learning-calculus Mathematics\ for\ Machine\ Learning\ and\ Data\ Science\ Specialization
+mkdir AI
+mv Mathematics\ for\ Machine\ Learning\ and\ Data\ Science\ Specialization AI
+mv Machine\ Learning\ Specialization AI
+mv Natural\ Language\ Processing\ Specialization AI
+ls AI
+du -h AI.zip
+sudo lsblk
+lsusb
+sudo mv Documents/coursera/AI.zip /mnt
+find
+tldr find
+find . -type f \( -name "*.html" \) -delete
+xdg-open ASPKET\ CBS\ m-API.pdf
+ping 192.168.220.63
+cd my-coursera/coursera-dl-fork/
+./coursera-dl --download-quizzes --video-resolution 720p -ca b0Vor2ZAwDMDv-PlXJcr1eoblIvzR_ruE1eJQ4cyU7rDZdvUUnYuhsLRk5U_3fR6AXTW73DIZ4pDwtOEzWSaMg.HEM397_CncG9Sxpp71R-LQ.T6j9yr2Nf5fW5Gi9PQjfQmbjHlvUCIu0pIptGihYW7lqqSOmmp53W5P8cKGxIDj1TVagCc-8BA3Fph8D5oOkq0a53vfT4lpF8LlBeprDswHMPLZqEYQyfFsKU_261gDNuToLBr159PFDhrPK2j7MdAXcCNkmPr9BfX4Lo3N0PWTy9LimtaP8jJ_KpOmqBdZgPAVjp1xJ0NDDVduLE4hLsLjZhkXJnMrgKirmH7HUCGtCJd1HXwTD1PiwVsCghmf1dvlS724dbJFiGxE-vonjpccR22ervpTdx41gDpcolzS0zDUC8TL0jin7OUvBAeroHiIxpt5QdLLramKXmNcd1ChGFwOUtufQ8rZk7LxjTi-IQjExz5UbU0Q5LrL-fTxILgTN-xu-mdGKj9w0d7HNzg neural-networks-deep-learning
+cd Documents/coursera/AI
+zip -r AI.zip AI
+sudo mv AI.zip /mnt/D/
+ls /mnt/D
+cd /mnt/D
+sudo touch hellofromArchLinux
+mkdir odoo
+cd odoo
+nvim docker-compose.yml
+ip a
+cd Documents/odoo
+docker compose up -d
+rm docker-compose.yml
+rm odoo
+rm -r odoo
+cd my-coursera/coursera-dl-fork
+./coursera-dl --download-quizzes --video-resolution 720p -ca b0Vor2ZAwDMDv-PlXJcr1eoblIvzR_ruE1eJQ4cyU7rDZdvUUnYuhsLRk5U_3fR6AXTW73DIZ4pDwtOEzWSaMg.HEM397_CncG9Sxpp71R-LQ.T6j9yr2Nf5fW5Gi9PQjfQmbjHlvUCIu0pIptGihYW7lqqSOmmp53W5P8cKGxIDj1TVagCc-8BA3Fph8D5oOkq0a53vfT4lpF8LlBeprDswHMPLZqEYQyfFsKU_261gDNuToLBr159PFDhrPK2j7MdAXcCNkmPr9BfX4Lo3N0PWTy9LimtaP8jJ_KpOmqBdZgPAVjp1xJ0NDDVduLE4hLsLjZhkXJnMrgKirmH7HUCGtCJd1HXwTD1PiwVsCghmf1dvlS724dbJFiGxE-vonjpccR22ervpTdx41gDpcolzS0zDUC8TL0jin7OUvBAeroHiIxpt5QdLLramKXmNcd1ChGFwOUtufQ8rZk7LxjTi-IQjExz5UbU0Q5LrL-fTxILgTN-xu-mdGKj9w0d7HNzg deep-neural-network
+./coursera-dl  --video-resolution 720p -ca b0Vor2ZAwDMDv-PlXJcr1eoblIvzR_ruE1eJQ4cyU7rDZdvUUnYuhsLRk5U_3fR6AXTW73DIZ4pDwtOEzWSaMg.HEM397_CncG9Sxpp71R-LQ.T6j9yr2Nf5fW5Gi9PQjfQmbjHlvUCIu0pIptGihYW7lqqSOmmp53W5P8cKGxIDj1TVagCc-8BA3Fph8D5oOkq0a53vfT4lpF8LlBeprDswHMPLZqEYQyfFsKU_261gDNuToLBr159PFDhrPK2j7MdAXcCNkmPr9BfX4Lo3N0PWTy9LimtaP8jJ_KpOmqBdZgPAVjp1xJ0NDDVduLE4hLsLjZhkXJnMrgKirmH7HUCGtCJd1HXwTD1PiwVsCghmf1dvlS724dbJFiGxE-vonjpccR22ervpTdx41gDpcolzS0zDUC8TL0jin7OUvBAeroHiIxpt5QdLLramKXmNcd1ChGFwOUtufQ8rZk7LxjTi-IQjExz5UbU0Q5LrL-fTxILgTN-xu-mdGKj9w0d7HNzg deep-neural-network
+./coursera-dl  --video-resolution 720p -ca b0Vor2ZAwDMDv-PlXJcr1eoblIvzR_ruE1eJQ4cyU7rDZdvUUnYuhsLRk5U_3fR6AXTW73DIZ4pDwtOEzWSaMg.HEM397_CncG9Sxpp71R-LQ.T6j9yr2Nf5fW5Gi9PQjfQmbjHlvUCIu0pIptGihYW7lqqSOmmp53W5P8cKGxIDj1TVagCc-8BA3Fph8D5oOkq0a53vfT4lpF8LlBeprDswHMPLZqEYQyfFsKU_261gDNuToLBr159PFDhrPK2j7MdAXcCNkmPr9BfX4Lo3N0PWTy9LimtaP8jJ_KpOmqBdZgPAVjp1xJ0NDDVduLE4hLsLjZhkXJnMrgKirmH7HUCGtCJd1HXwTD1PiwVsCghmf1dvlS724dbJFiGxE-vonjpccR22ervpTdx41gDpcolzS0zDUC8TL0jin7OUvBAeroHiIxpt5QdLLramKXmNcd1ChGFwOUtufQ8rZk7LxjTi-IQjExz5UbU0Q5LrL-fTxILgTN-xu-mdGKj9w0d7HNzg machine-learning-projects
+./coursera-dl   --subtitle-language en --video-resolution 720p -ca b0Vor2ZAwDMDv-PlXJcr1eoblIvzR_ruE1eJQ4cyU7rDZdvUUnYuhsLRk5U_3fR6AXTW73DIZ4pDwtOEzWSaMg.HEM397_CncG9Sxpp71R-LQ.T6j9yr2Nf5fW5Gi9PQjfQmbjHlvUCIu0pIptGihYW7lqqSOmmp53W5P8cKGxIDj1TVagCc-8BA3Fph8D5oOkq0a53vfT4lpF8LlBeprDswHMPLZqEYQyfFsKU_261gDNuToLBr159PFDhrPK2j7MdAXcCNkmPr9BfX4Lo3N0PWTy9LimtaP8jJ_KpOmqBdZgPAVjp1xJ0NDDVduLE4hLsLjZhkXJnMrgKirmH7HUCGtCJd1HXwTD1PiwVsCghmf1dvlS724dbJFiGxE-vonjpccR22ervpTdx41gDpcolzS0zDUC8TL0jin7OUvBAeroHiIxpt5QdLLramKXmNcd1ChGFwOUtufQ8rZk7LxjTi-IQjExz5UbU0Q5LrL-fTxILgTN-xu-mdGKj9w0d7HNzg machine-learning-projects
+./coursera-dl   --subtitle-language en --video-resolution 720p -ca b0Vor2ZAwDMDv-PlXJcr1eoblIvzR_ruE1eJQ4cyU7rDZdvUUnYuhsLRk5U_3fR6AXTW73DIZ4pDwtOEzWSaMg.HEM397_CncG9Sxpp71R-LQ.T6j9yr2Nf5fW5Gi9PQjfQmbjHlvUCIu0pIptGihYW7lqqSOmmp53W5P8cKGxIDj1TVagCc-8BA3Fph8D5oOkq0a53vfT4lpF8LlBeprDswHMPLZqEYQyfFsKU_261gDNuToLBr159PFDhrPK2j7MdAXcCNkmPr9BfX4Lo3N0PWTy9LimtaP8jJ_KpOmqBdZgPAVjp1xJ0NDDVduLE4hLsLjZhkXJnMrgKirmH7HUCGtCJd1HXwTD1PiwVsCghmf1dvlS724dbJFiGxE-vonjpccR22ervpTdx41gDpcolzS0zDUC8TL0jin7OUvBAeroHiIxpt5QdLLramKXmNcd1ChGFwOUtufQ8rZk7LxjTi-IQjExz5UbU0Q5LrL-fTxILgTN-xu-mdGKj9w0d7HNzg convolutional-neural-networks
+mv neural-networks-deep-learning 1-neural-networks-deep-learning
+mv deep-neural-network 2-deep-neural-network
+mv machine-learning-projects 3-machine-learning-projects
+mv convolutional-neural-networks 4-convolutional-neural-networks
+cd Documents/coursera
+mkdir "Deep Learning Specialization"\
+\
+
+mv my-coursera/coursera-dl-fork/1-neural-networks-deep-learning AI/Deep\ Learning\ Specialization
+mv my-coursera/coursera-dl-fork/2-deep-neural-network AI/Deep\ Learning\ Specialization
+mv my-coursera/coursera-dl-fork/3-machine-learning-projects AI/Deep\ Learning\ Specialization
+mv my-coursera/coursera-dl-fork/4-convolutional-neural-networks AI/Deep\ Learning\ Specialization
+cd AI
+cd Deep\ Learning\ Specialization
+find . -type f \( -name "*.srt" -o -name "*.txt" \) -delete
+du -h AI
+sudo pacman -S dolphin
+sudo pacman -Rns dolphin
+sudo pacman -S reflector
+reflector --help
+reflector --verbose -l 200 -n 20 -p http --sort rate --save /etc/pacman.d/mirrorlist
+sudo reflector --verbose -l 200 -n 20 -p http --sort rate --save /etc/pacman.d/mirrorlist
+cat /etc/pacman.d/mirrorlist
+cat Passwords.kdbx
+nest new pamf-api-gateway
+cd pamf-api-gateway
+sudo pacman -S nemo
+xdg-open Podman-in-Action-ebook-FINAL-Red-Hat-Developer.pdf
+getent group | grep andrianina
+whatis getent
+geten
+man getent
+getent -h
+getent --help
+node -v
+npm i -g @nestjs/cli
+run install -g npm@9.5.0
+sudo npm install -g npm@9.5.0
+sudo npm i -g @nestjs/cli
+nest g resource contact
+yay -Ss chromium
+sudo pacman -S chromium
+*
+p
+nmtui
+sudo pacman -S minikube
+minikube stop\
+
+ping 192.168.123.16
+docker ps
+cd Documents/pamf-api-gateway
+dotenv
+cd Documents/test-api
+killall dbeaver
+kill -9 12259
+ps aux | grep dbeaver
+nest new ordering-app
+cd ordering-app
+nest generate app orders
+nest g app billing
+nest g app auth
+nest g library common
+sudo pacman -Syy
+sudo pacman -S helm
+minikube delete && minikube stop
+helm repo add bitnami https://charts.bitnami.com/bitnami
+helm
+helm version
+helm install mysql-cluster bitnami/mysql
+minikube kubectl get pods -w --namespace default
+minikube kubectl get pods --namespace default
+minikube kubectl get pods --all-namespaces
+helm delete mysql-cluster
+minikube kubectl get pods
+minikube kubectl get all
+sudo pacman -Rns chromium
+kubectl delete deployment hello-minikube
+kubectl delete deployment nginx-depl
+mkdir k8stuts
+cd k8stuts
+nvim nginx-deployment.yaml
+kubectl delete service hello-minikube
+echo -n 'username' | base64
+kubectl version
+kubectl create -h
+kubectl create deployment nginx-depl --image=nginx
+kubectl get deployment
+kubectl get replicaset
+kubectl edit deployment nginx-depl
+kubectl logs hello-minikube-77b6f68484-wcmrl
+minikube kubectl create deployment hello-minikube --image=kicbase/echo-server:1.0
+minikube kubectl 
+minikube kubectl create --help
+minikube delete
+minikube
+minikube kubectl
+source .zshenv
+kubectl get po -A
+minikube dashboard
+kubectl create deployment hello-minikube --image=kicbase/echo-server:1.0
+kubectl expose deployment hello-minikube --type=NodePort --port=8080
+minikube service hello-minikube
+minikube start --kubernetes-version=latest\
+
+docker system prune
+minikube addons list
+minikube service hello-minikube --url
+minikube get svc
+kubectl get svc
+nvim .zshenv
+zsh
+minikube status
+clera
+nest new pamf-microservice
+nest add cd
+git clone https://github.com/mguay22/nestjs-rabbitmq-microservices.git
+cd nestjs-rabbitmq-microservices
+cd pamf-microservice
+nest generate app api-gateway
+nest generate app aspket-asbtraction-layer
+mkdir infrak8s
+cd infrak8s
+codium .
+cd Documents
+mkdir flutter-estia
+cd flutter-estia
+wget "https://youtu.be/pvo4TDEyRbk"
+vlc pvo4TDEyRbk
+wget "https://www.youtube.com/watch?v=pvo4TDEyRbk"
+yt-dlp --format "bestvideo[height<=720]+bestaudio/best[height<=720]" --output "%(title).%(ext)s" "https://www.youtube.com/watch?v=pvo4TDEyRbk"
+yt-dlp --format "bestvideo[height<=720]+bestaudio/best[height<=720]" "https://www.youtube.com/watch?v=pvo4TDEyRbk"
+rm pvo4TDEyRbk watch\?v=pvo4TDEyRbk
+mv PMP2M1VO1\ \[pvo4TDEyRbk\].webm INTRODUCTION.webm
+yt-dlp --format "bestvideo[height<=720]+bestaudio/best[height<=720]" "https://www.youtube.com/watch?v=gdqfYSaf3P0"
+mv INTRODUCTION.webm "1-INTRODUCTION.webm"
+mv "PMP2M1VO2 [gdqfYSaf3P0].webm" "2-pmINTRODUCTION DEVELOPPEMENT HYDRIDE MOBILE&FLUTTER.webm"
+mv 2-INTRODUCTION\ DEVELOPPEMENT\ HYDRIDE\ MOBILE\&FLUTTER.webm
+mv "2-pmINTRODUCTION DEVELOPPEMENT HYDRIDE MOBILE&FLUTTER.webm" "2-INTRODUCTION DEVELOPPEMENT HYDRIDE MOBILE&FLUTTER.webm"
+yt-dlp --format "bestvideo[height<=720]+bestaudio/best[height<=720]" "https://www.youtube.com/watch?v=UqNGja4CZ1c" --output "APERÃƒ§U DE DART.webm"
+yt-dlp --format "bestvideo[height<=720]+bestaudio/best[height<=720]" "https://www.youtube.com/watch?v=UqNGja4CZ1c" --output "3-APERÃƒ§U DE DART.webm"
+rm APERÃƒ§U\ DE\ DART.f247.webm.ytdl APERÃƒ§U\ DE\ DART.f247.webm.part
+yt-dlp --format "bestvideo[height<=720]+bestaudio/best[height<=720]" "https://www.youtube.com/watch?v=Y4kmwQHG3Sw" --output "4-EXEMPLE DART.webm"
+yt-dlp --format "bestvideo[height<=720]+bestaudio/best[height<=720]" "https://www.youtube.com/watch?v=Nu3M0nwgjfk" --output "5-PROJET DART.webm"
+ls -lh
+yt-dlp --format "bestvideo[height<=720]+bestaudio/best[height<=720]" "https://www.youtube.com/watch?v=jIOR5BZ3tLE" --output "6-PROJET DART 2.webm"
+du -h flutter-estia
+sudo mount /dev/sdb1 /mnt
+sudo cp -r flutter-estia /mnt
+ls /mnt
+cd
+sudo umount /mnt
+yay -Sc
+sudo pacman -Sc
+cla
+cal
+minikube start
+kubectl get pods -o wide
+minikube stop
+nvim .config/zsh/.zshrc
+yay -S rancher-k3d
+export ASSUME_NO_MOVING_GC_UNSAFE_RISK_IT_WITH=go1.20 yay -S rancher-k3d
+ASSUME_NO_MOVING_GC_UNSAFE_RISK_IT_WITH=go1.20 yay -S rancher-k3d
+k3d ckuster list
+k3d create cluster testcluster
+ASSUME_NO_MOVING_GC_UNSAFE_RISK_IT_WITH=go1.20 k3d create cluster testcluster
+ASSUME_NO_MOVING_GC_UNSAFE_RISK_IT_WITH=go1.20 k3d --help
+ASSUME_NO_MOVING_GC_UNSAFE_RISK_IT_WITH=go1.20 k3d cluster --help
+ASSUME_NO_MOVING_GC_UNSAFE_RISK_IT_WITH=go1.20 k3d cluster create testcluster
+yay -Rns rancher-k3d
+curl -s https://raw.githubusercontent.com/k3d-io/k3d/main/install.sh | bash
+k3d help
+echo -n 'andrianina' | base64
+echo -n 'Debianlnx1' | base64
+ping google.com
+ls .kube
+ls .kube/config
+cat .kube/config
+ls .config
+kubectl get secrets
+kubectl describe service mongodb-service
+kubectl describe pod mongodb-dd6954c56-rkd6w
+kubectl describe pod mongodb-dd6954c56-rkd6w --watch
+kubectl get configmaps
+kubectl logs mongodb-dd6954c56-rkd6w
+kubectl --help
+kubectl --heclear
+kubectl delete mongodb-dd6954c56-rkd6w
+kubectl delete mongodb
+kubectl delete pod mongodb-dd6954c56-rkd6w
+kubectl get pod
+kubectl logs mongo-express-857877bb7f-x9pcd
+kubectl logs mongodb-service
+k3d cluster
+k3d cluster stop localdev
+kubectl get all*
+kubectl get pods*
+kubectl describe pod mongodb-dd6954c56-snrjf
+kubectl delete pod mongodb-dd6954c56-snrjf
+kubectl apply -f mongodb.yaml
+kubectl delete pod mongodb-dd6954c56-czp25
+sudo rm $(which k3d)
+k3d cluster create
+k3d cluster list
+helm install prometheus stable/prometheus-operator
+k3d cluster delete localdev
+history
+go clear
+yay -S kind
+go list
+go clean
+sudo pacman -Rns kubectl
+curl -s https://raw.githubusercontent.com/k3d-io/k3d/main/install.sh | bash\
+
+k3d
+sudo pacman -S kubectl
+kubectl get nodes
+k3d cluster create localdev
+ kubectl cluster-info
+git clone https://github.com/mguay22/elk-filebeat.git
+cd elk-filebeat
+helm dependency upgrade
+kubectl get pods 
+kubectl get pods --watch
+kubectl logs filebeat-filebeat-fk5qj
+go install sigs.k8s.io/kind@v0.17.0 && kind create cluster
+go install sigs.k8s.io/kind@v0.17.0
+df -H
+sleep 3 && screenshot
+cd Documents/k8s
+rm mongodb-secret.yml
+mkdir metrics
+helm create nestjs-metrics
+cd nestjs-metrics
+nvim
+rm *
+cd templates
+cd Documents/k8s/elk-filebeat
+cd filebeat
+helm install filebeat .
+cd logstash
+helm install logstash .
+kubectl logs filebeat-filebeat-hxhzc
+kubectl describe pod filebeat-filebeat-hxhzc --watch
+kubectl describe pod filebeat-filebeat-hxhzc
+helm plugin install https://github.com/helm/helm-mapkubeapis
+helm mapkubeapis
+helm mapkubeapis RELEASE
+helm install logstash logstash
+helm mapkubeapis PodDisruptionBudget
+helm mapkubeapis policy/v1beta1
+helm mapkubeapis policy
+kubectl delete all
+kubectl delete filebeat-filebeat-hxhzc
+kubectl delete pod filebeat-filebeat-hxhzc
+kubectl delete deamonset filebeat-filebeat
+kubectl delete pod filebeat-filebeat
+kind delete cluster localdev
+kind delete cluster
+kind delete clusters
+kind create cluster localdev
+kind create cluster --help
+kubectl cluster-info --context kind-localdev
+mkdir efk-stack
+cd efk-stack
+nvim namespace.yaml
+helm show values prometheus-community/prometheus
+sudo pacman -S j ra
+sudo pacman -S unrar
+unrar x "Udemy_Logging_in_Kubernetes_with_EFK_Stack_2022_3_Downloadly.ir.rar"
+cd Udemy\ -\ Logging\ in\ Kubernetes\ with\ EFK\ Stack\ 2022-3
+tree
+kubectl delete namespace monitoring
+cd Documents/k8s/metrics
+rm -rf nestjs-metrics
+kubectl create -f namespace.yaml
+kubectl get deployments --namespace=metrics
+kubectl describe pod prometheus-deployment-d9c784655-x8scl
+rm *.yaml
+git clone https://github.com/techiescamp/kubernetes-prometheus.git
+cp kubernetes-prometheus/*.yaml .
+rm -rf kubernetes-prometheus
+kubectl create namespace monitoring
+kubectl create -f clusterRole.yaml
+kubectl create -f config-map.yaml
+kubectl create  -f prometheus-deployment.yaml 
+kubectl get deployments --namespace=monitoring
+kubectl describe pod prometheus-deployment-74dc6c7466-sc46w
+kubectl create -f prometheus-service.yaml --namespace=monitoring
+kind get
+kind get node
+kind get clusters
+kind help
+kind get --help
+kind get nodes
+kind get nodes -v --name localdev
+kind get nodes --name localdev -v
+kind get nodes --name localdev -v 2
+kind get nodes --name localdev -v 3
+kind get nodes --name localdev -v 4
+kind get nodes --name localdev
+kind get nodes --help
+kubectl port-forward prometheus-deployment-74dc6c7466-sc46w 8080:9090 -n monitoring
+git clone https://github.com/devopscube/kube-state-metrics-configs.git
+kubectl apply -f kube-state-metrics-configs/
+kubectl get pods -n kube-system
+kubectl get deployments kube-state-metrics -n kube-system
+git clone https://github.com/bibinwilson/kubernetes-grafana.git
+cd kubernetes-grafana
+kubectl create -f grafana-datasource-config.yaml
+kubectl create -f deployment.yaml
+kubectl create -f service.yaml
+kubectl get pods --namespace=monitoring
+cleear
+cd ..
+helm repo add prometheus-community https://prometheus-community.github.io/helm-charts
+helm repo update
+helm repo list
+helm show values prometheus-community/kube-prometheus-stack
+helm dependency update
+kubectl create -f templates/namespace.yaml
+helm uninstall metrics .
+kubectl delete namespace metrics
+kubectl get namespaces
+kubectl get all --namespace monitoring
+kubectl get pods
+kubectl get services
+kubectl port-forward metrics-grafana-6db68d8cb4-v9hv4 80:9090
+kubectl port-forward metrics-grafana-6db68d8cb4-v9hv4 80:9090 -n monitoring
+kubectl port-forward metrics-grafana-6db68d8cb4-v9hv4 80:9090 -n metrics
+kubectl get all
+helm uninstall metrics
+helm install metrics .
+kind create cluster --name localdev
+kubectl create namespace metrics
+helm install metrics prometheus-community/kube-prometheus-stack -n metrics\
+
+kubectl port-forward metrics-grafana-d94cd5dcc-rksh4 80:30000 -n metrics
+kubectl port-forward metrics-grafana-d94cd5dcc-rksh4 30000 -n metrics
+cmear
+kubectl port-forward --help
+kubectl port-forward metrics-grafana-d94cd5dcc-rksh4 30000:80
+kubectl port-forward metrics-grafana-d94cd5dcc-rksh4 30000:80 -n metrics*
+kubectl port-forward metrics-grafana-d94cd5dcc-rksh4 30000:80 -n metrics
+kubectl get pod metrics-grafana-d94cd5dcc-rksh4 -n metrics  --template='{{(index (index .spec.containers 0).ports 0).containerPort}}{{"\n"}}'\
+
+kubectl describe service metrics-grafana
+kubectl describe service metrics-grafana -n metrics
+kubectl describe pod metrics-grafana-d94cd5dcc-rksh4 -n metrics
+helm install prometheus-community/kube-prometheus-stack -n metrics
+helm install metrics prometheus-community/kube-prometheus-stack -n metrics
+kubectl port-forward metrics-grafana-d94cd5dcc 30000 -n metrics
+kubectl port-forward replicaset.apps/metrics-grafana-d94cd5dcc 30000 -n metrics
+kubectl port-forward replicaset.apps/metrics-grafana-d94cd5dcc 3000 -n metrics
+cd Documents/k8s/
+rm -rf metrics
+helm create metrics
+cd metrics
+helm upgrade --install ingress-nginx ingress-nginx \\
+  --repo https://kubernetes.github.io/ingress-nginx \\
+  --namespace ingress-nginx --create-namespace\
+
+sudo pacman -S  wireshark-qt 
+sudo pacman -S htop
+htop
+clea
+sudo reboot
+sleep 3 && screenshot select
+kind
+kubectl get all --namespace metrics
+helm list -A
+helm uninstall metrics -n metrics
+kind delete clusters localdev
+cd Downloads
+rm Kubernetes\ Architecture.png
+onlyoffice-desktopeditors
+sudo poweroff
+sudo su
+yay
+blkid
+ls /dev/disk/by-uuid
+mkinitcpio -p
+mkinitcpio -p linux
+sudo mkinitcpio -p linux
+lsblk
+cat /etc/fstab
+sudo blkid
+clear
+git config --global --add safe.directory /opt/flutter
+git config --global --add safe.directory /home/andrianina
+git status
+git status | less
+rm -rf .git
+pws
+pwd
+ls
+ls -a
+git init
+exit
